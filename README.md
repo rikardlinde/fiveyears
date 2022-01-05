@@ -1,23 +1,23 @@
 # fiveyears.se
-> 
+> Webbplats för folkrörelse för ett friare liv
 
 
-## General info
+## Allmänt
 []()
 
 
-## Features
+## Funktioner
 
 * 
 * 
 
 
 ## Status
-Project is: 
+Formulerar projektets struktur. 
 
 
 ## Inspiration
 
 
-## Contact
+## Kontakt
 
